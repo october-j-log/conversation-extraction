@@ -150,24 +150,24 @@ json
 ### **5.1 代码概览**
 
 ```
-![代码概览](https://raw.githubusercontent.com/october-j-log/conversation-extraction/main/code_overview.png)
+![代码概览](https://cdn.jsdelivr.net/gh/october-j-log/conversation-extraction@main/code_overview.png)
 ```
 ### **5.2 终端运行结果**
 
 ```
-![代码概览](https://raw.githubusercontent.com/october-j-log/conversation-extraction/main/terminal_run.png)
+![终端运行结果](https://cdn.jsdelivr.net/gh/october-j-log/conversation-extraction@main/terminal_run.png)
 ```
 
 ### **5.3 提取结果 JSON 示例**
 
 ```
-![代码概览](https://raw.githubusercontent.com/october-j-log/conversation-extraction/main/result_json.png)
+![JSON结果示例](https://cdn.jsdelivr.net/gh/october-j-log/conversation-extraction@main/result_json.png)
 ```
 
 ### **5.4 项目文件结构**
 
 ```
-![代码概览](https://raw.githubusercontent.com/october-j-log/conversation-extraction/main/folder_structure.png)
+![项目文件结构](https://cdn.jsdelivr.net/gh/october-j-log/conversation-extraction@main/folder_structure.png)
 ```
 
 ---
