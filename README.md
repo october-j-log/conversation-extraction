@@ -150,8 +150,7 @@ json
 ### **5.1 代码概览**
 
 ```
-![代码概览](https://cdn.jsdelivr.net/gh/october-j-log/conversation-extraction@main/code_overview.png)
-```
+![代码概览](https://raw.githubusercontent.com/october-j-log/conversation-extraction/main/code_overview.png?t=20260707)
 ### **5.2 终端运行结果**
 
 ```
