@@ -151,7 +151,6 @@ json
 
 ```
 ![代码概览](https://raw.githubusercontent.com/october-j-log/conversation-extraction/main/code_overview.png)
-```
 
 ### **5.2 终端运行结果**
 
