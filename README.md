@@ -1,4 +1,4 @@
-# 对话 → 结构化信息提取
+# 0108 · 对话 → 结构化信息提取
 
 本项目实现客服对话的自动化结构化信息提取，支持 **本地 Mock 规则匹配** 和 **真实 LLM 语义提取** 两种模式，满足不同场景下的效率和准确性需求。
 
@@ -150,25 +150,25 @@ json
 ### **5.1 代码概览**
 
 ```
-![代码概览](https://raw.githubusercontent.com/october-j-log/conversation-extraction/main/code_overview.png?t=20260707)
+![代码概览](code_overview.png)
 ```
 
 ### **5.2 终端运行结果**
 
 ```
-![终端运行结果](https://cdn.jsdelivr.net/gh/october-j-log/conversation-extraction@main/terminal_run.png)
+![终端运行结果](terminal_run.png)
 ```
 
 ### **5.3 提取结果 JSON 示例**
 
 ```
-![JSON结果示例](https://cdn.jsdelivr.net/gh/october-j-log/conversation-extraction@main/result_json.png)
+![JSON结果示例](result_json.png)
 ```
 
 ### **5.4 项目文件结构**
 
 ```
-![项目文件结构](https://cdn.jsdelivr.net/gh/october-j-log/conversation-extraction@main/folder_structure.png)
+![文件夹结构](folder_structure.png)
 ```
 
 ---
@@ -209,5 +209,5 @@ text
 
 ---
 
-**作者**：[October-log]  
-**日期**：2026-07-07
+**作者**：[嘉宇国]  
+**日期**：2026-06-16
