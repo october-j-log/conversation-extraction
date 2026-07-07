@@ -150,13 +150,13 @@ json
 ### **5.1 代码概览**
 
 ```
-![代码概览](code_overview.png)
+![代码概览](https://raw.githubusercontent.com/october-j-log/conversation-extraction/main/code_overview.png)
 ```
 
 ### **5.2 终端运行结果**
 
 ```
-![终端运行结果](terminal_run.png)
+![终端运行结果](https://raw.githubusercontent.com/october-j-log/conversation-extraction/main/terminal_run.png)
 ```
 
 ### **5.3 提取结果 JSON 示例**
