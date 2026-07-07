@@ -155,19 +155,19 @@ json
 ### **5.2 终端运行结果**
 
 ```
-![终端运行结果](https://raw.githubusercontent.com/october-j-log/conversation-extraction/main/terminal_run.png)
+![代码概览](https://raw.githubusercontent.com/october-j-log/conversation-extraction/main/terminal_run.png)
 ```
 
 ### **5.3 提取结果 JSON 示例**
 
 ```
-![JSON结果示例](result_json.png)
+![代码概览](https://raw.githubusercontent.com/october-j-log/conversation-extraction/main/result_json.png)
 ```
 
 ### **5.4 项目文件结构**
 
 ```
-![文件夹结构](folder_structure.png)
+![代码概览](https://raw.githubusercontent.com/october-j-log/conversation-extraction/main/folder_structure.png)
 ```
 
 ---
