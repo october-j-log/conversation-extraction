@@ -170,10 +170,7 @@ json
 ```
 
 ---
-
-## **7. 项目文件结构**
-
-```
+## 7. 项目文件结构
 ├── extract.py                  # 主程序（双模式）
 ├── task2_conversations.json    # 输入数据（25条对话）
 ├── extracted_results.json      # 输出结果（自动生成）
@@ -183,9 +180,6 @@ json
 ├── code_overview.png           # 代码截图
 ├── result_json.png             # 结果截图
 └── folder_structure.png        # 文件夹结构
-```
-
----
 
 ## 8. 改进方向
 
