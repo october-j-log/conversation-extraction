@@ -150,7 +150,7 @@ json
 ### **5.1 代码概览**
 
 ```
-![代码概览](https://raw.github.com/october-j-log/conversation-extraction/main/code_overview.png)
+![代码概览]((https://mirror.ghproxy.com/https://raw.githubusercontent.com/october-j-log/conversation-extraction/main/code_overview.png))
 ```
 
 ### **5.2 终端运行结果**
