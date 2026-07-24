@@ -145,34 +145,15 @@ json
 
 ---
 
-## **5. 开发工具与运行截图**
-
-## 5.1 代码概述
-![代码概览](./code_overview.png)
-
-## 5.2 终止运行结果
-![终端运行结果](./terminal_run.png)
-
-## 5.3 提取结果 JSON 示例
-![JSON结果示例](./result_json.png)
-
-## 5.4 项目文件结构
-![文件夹结构](./folder_structure.png)
-```
-
-```
-
----
-
-## **6. AI 工具使用情况** 
+## **5. AI 工具使用情况** 
 
 - **Cursor**：作为代码编辑器，辅助编写和调试 Python 脚本。
 - **DeepSeek API**：用于 LLM 模式下的语义提取（可选）。
 - **Copilot / ChatGPT**：辅助设计 Prompt 和生成代码框架。
 ---
 
-## 7.项目文件结构 
-
+ ## 6.项目文件结构 
+```
 ├── extract.py                  # 主程序（双模式）
 ├── task2_conversations.json    # 输入数据（25条对话）
 ├── extracted_results.json      # 输出结果（自动生成）
@@ -182,10 +163,10 @@ json
 ├── code_overview.png           # 代码截图
 ├── result_json.png             # 结果截图
 └── folder_structure.png        # 文件夹结构
-
+```
 ---
 
-## 8. 改进方向
+ ## 7. 改进方向
 
 - 支持更多实体类型（如日期、地址）
 - 支持流式处理大文件
